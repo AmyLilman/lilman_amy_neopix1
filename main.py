@@ -18,4 +18,5 @@ light.set_pixel_color(8, light.rgb(100, 0, 100))
 light.set_brightness(20)
 light.set_pixel_color(9, light.rgb(255, 0, 0))
 
-light.clear(3000) and pause(2000)
+pause(2000)
+light.clear(3000) 
