@@ -1,4 +1,4 @@
-light.set_brightness(10)
+light.set_brightness(100)
 light.set_pixel_color(0, light.rgb(225, 0, 0))
 light.set_pixel_color(1, light.rgb(0, 0, 225))
 light.set_pixel_color(2, light.rgb(0, 255, 0))
